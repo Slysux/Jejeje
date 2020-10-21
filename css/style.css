@@ -1,0 +1,27 @@
+.body {
+    width: 100vw;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.todo {
+    text-align: center;
+  }
+.box {
+    width: 1000px;
+    height: 700px;
+    margin: 0 auto;
+    position: relative;
+}
+.button1 {
+    position: absolute;
+    left: 350px;
+}
+.button2 {
+    position: absolute;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 50px;
+}
